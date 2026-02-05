@@ -1,14 +1,13 @@
-# -RASHI-NIYAS-P_EA_Assignment3
-# Engineering Analytics - Assignment 3
+# Engineering Analytics - Neural ODE and PINNs
 
 **Name:** Rashi Niyas
 **Roll Number:** ZDA24M005
 
 ---
 
-## Assignment Overview
+##  Overview
 
-This repository contains the solutions for Assignment 3 of the Z6003 - Engineering Analytics course. The assignment explores two advanced neural network architectures:
+This repository contains the solutions for Assignment  of the Z6003 - Engineering Analytics course IIT Madras. The assignment explores two advanced neural network architectures:
 
 1.  **Physics-Informed Neural Networks (PINNs):** Used to solve the Eikonal equation for cardiac activation mapping, demonstrating how physical laws can regularize a model and improve predictions with sparse data.
 2.  **Neural Ordinary Differential Equations (Neural ODEs):** Used to create a continuous-depth model for a classification task, comparing its behavior and performance against a standard discrete-layer network.
@@ -24,13 +23,3 @@ The repository is organized as follows:
     -   **`node_ea.ipynb`**: Solution for Question 2 (Neural ODE).
 
 ---
-
-## Setup and Installation
-
-To run the solutions in this repository, please follow these steps.
-
-**1. Clone the Repository**
-
-```bash
-git clone https://github.com/rashiniyasp/-RASHI-NIYAS-P_EA_Assignment3.git
-cd -RASHI-NIYAS-P_EA_Assignment3
